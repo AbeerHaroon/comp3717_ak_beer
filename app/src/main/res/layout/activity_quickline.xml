@@ -13,7 +13,7 @@
         android:layout_marginTop="28dp"
         android:text="@string/quickline_heading"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.22"
+        app:layout_constraintHorizontal_bias="0.333"
         app:layout_constraintStart_toEndOf="@+id/homeButton"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -41,8 +41,8 @@
         android:id="@+id/medical_services"
         android:layout_width="209dp"
         android:layout_height="29dp"
-        android:layout_marginStart="36dp"
-        android:layout_marginBottom="84dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="36dp"
         android:text="@string/medical_services"
         app:layout_constraintBottom_toTopOf="@+id/user_added_nums_label"
         app:layout_constraintStart_toStartOf="parent" />
@@ -52,12 +52,12 @@
         android:layout_width="39dp"
         android:layout_height="35dp"
         android:layout_marginStart="16dp"
-        android:layout_marginBottom="76dp"
+        android:layout_marginBottom="28dp"
         android:contentDescription="call_button"
         android:rotationX="-180"
         app:layout_constraintBottom_toTopOf="@+id/user_added_nums_label"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintHorizontal_bias="0.486"
         app:layout_constraintStart_toEndOf="@+id/medical_services"
         app:srcCompat="@android:drawable/sym_action_call" />
 
