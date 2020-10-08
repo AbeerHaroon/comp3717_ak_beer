@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">diary_activity</string>
+    <string name="diary_heading">Diary</string>
+    <string name="title_label">Title:</string>
+    <string name="quickline_heading">QuickLine</string>
+    <string name="covid_helpline">Covid Help Line</string>
+    <string name="medical_services">811 Medical Service</string>
+    <string name="user_added_nums_label">User Added Numbers:</string>
+    <string name="mom">Mom</string>
 </resources>
