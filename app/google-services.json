@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364450873609",
+    "firebase_url": "https://mysolation-866c4.firebaseio.com",
+    "project_id": "mysolation-866c4",
+    "storage_bucket": "mysolation-866c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364450873609:android:93c83977821c47a31953d8",
+        "android_client_info": {
+          "package_name": "com.example.projectprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364450873609-mgdm2r92nsgusnq2gkjn7bc042opnme9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAktD2AYH4wrO1kmtCLYJelkfIsu8AoYdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364450873609-mgdm2r92nsgusnq2gkjn7bc042opnme9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
