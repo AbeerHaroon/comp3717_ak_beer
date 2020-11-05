@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "diary_activity"
+rootProject.name = "ProjectPrototype"

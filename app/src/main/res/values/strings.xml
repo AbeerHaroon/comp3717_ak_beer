@@ -1,14 +1,91 @@
 <resources>
-    <string name="app_name">diary_activity</string>
+    //Main Activity
+    <string name="app_name">ProjectPrototype</string>
+    <string name="main_label">Today is Day </string>
+    <string name="username">Calliope Mori</string>
+    <string name="days">5</string>
+    <string name="button_exer">Exercise</string>
+    <string name="button_diary">Diary</string>
+    <string name="button_vital">Vitals</string>
+    <string name="button_news">News</string>
+    <string name="button_cont">Quickline</string>
+    <string name="button_set">Settings</string>
+
+    //Exercise Activity
+    <string name="desc_exercise">Button for Exercise Activity</string>
+    <string name="desc_diary">Button for Diary Activity</string>
+    <string name="desc_vital">Button for Vitals Activity</string>
+    <string name="desc_news">Button for News Activity</string>
+    <string name="desc_contact">Button for Contacts Activity</string>
+    <string name="desc_settings">Button for Settings Activity</string>
+
+    <string name="exercise_title">Exercise Planner</string>
+    <string name="exercise_q1">What Exercise Would You Like to Do?</string>
+    <string name="exercise_q2">How Many Sets?</string>
+    <string name="exercise_q2a">set(s) of</string>
+    <string name="exercise_q3">Additional Notes</string>
+    <string name="exercise_button">Start</string>
+
+    <string-array name="exercise_array">
+        <item>Sit-ups</item>
+        <item>Push-ups</item>
+        <item>Jumping Jacks</item>
+        <item>Crunches</item>
+        <item>Plank</item>
+        <item>Arm Curls</item>
+        <item>Leg Curls</item>
+        <item>Customize...</item>
+    </string-array>
+
+    //Custom Exercise Activity
+    <string name="custom_heading">Add Custom Exercise</string>
+
+    //Diary Activity
     <string name="date_label">Date</string>
     <string name="diary_heading">Diary</string>
     <string name="title_label">Title:</string>
-    <string name="quickline_heading">QuickLine</string>
-    <string name="covid_helpline">Covid Help Line</string>
-    <string name="medical_services">811 Medical Service</string>
-    <string name="user_added_nums_label">User Added Numbers:</string>
     <string name="bold">B</string>
     <string name="italics">I</string>
     <string name="underline">U</string>
-    <string name="mom">Mom</string>
+    <string name="storybox_label">Start your story.</string>
+    <string name="button_submit">Submit</string>
+
+    //Quickline Activity
+    <string name="quickline_heading">QuickLine</string>
+    <string name="covid_helpline">Covid Help Line</string>
+    <string name="helpline_actual">1-833-784-4397</string>
+    <string name="medical_services">811 Medical Service</string>
+    <string name="eight_one_one">811</string>
+    <string name="bc_covidlline">BC Non-Medical COVID Line</string>
+    <string name="covidline_actual">1-888-268-4319</string>
+    <string name="user_added_nums_label">User Added Numbers:</string>
+    <string name="add_custom">+ Add Custom Number</string>
+    <string name="cust1">Mom</string>
+    <string name="cust1_act">604-604-0000</string>
+    <string name="cust2">Takanashi Kiara</string>
+    <string name="cust2_act">222-888-0000</string>
+
+    //Vitals Activity
+    <string name="vital_titles">Vitals Report</string>
+    <string name="vital_date">September 21 2020 Day 3</string>
+    <string name="vital_timeofday">Morning Report</string>
+    <string name="vital_temperature">Temperature:</string>
+    <string name="vital_headache">Headache?</string>
+    <string name="vital_cough">Coughing?</string>
+    <string name="vital_coughchoice_1">None</string>
+    <string name="vital_coughchoice_2">Light</string>
+    <string name="vital_coughchoice_3">Moderate</string>
+    <string name="vital_coughchoice_4">Severe</string>
+    <string name="vital_button_next">Next</string>
+    <string name="news_title">COVID News</string>
+    <string name="button_local">Local</string>
+    <string name="button_province">BC</string>
+    <string name="button_nation">Canada</string>
+    <string name="button_newsop">News</string>
+    <string name="button_cases">Cases</string>
+    <string name="custom_title">Add Custom Exercise</string>
+    <string name="custom_hint">Name of Exercise</string>
+    <string name="custom_num">Per Set:</string>
+    <string name="custom_set">Sets:</string>
+    <string name="custom_button">Submit</string>
 </resources>
